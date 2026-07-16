@@ -9,15 +9,14 @@ redirect_from:
 
 Hello! I am **QiChao Yuan**, a graduate student at **Hefei University of Technology**.
 
-My research interests include **computer vision**, **vision-language models**, and **unsupervised domain adaptation**. My current research focuses on improving target-domain inference under distribution shifts by exploiting visual-semantic representations and target-set structures.
+My research interests include **computer vision**, **machine learning**, and **vision-language models**. I am interested in developing reliable and generalizable machine learning methods for visual recognition.
 
 ## Research Interests
 
 - Computer Vision
+- Machine Learning
 - Vision-Language Models
-- Unsupervised Domain Adaptation
-- Domain Generalization and Transfer Learning
-- Structured Target-Domain Inference
+- Transfer Learning
 
 ## Education
 
